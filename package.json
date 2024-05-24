@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Apps ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nav-dev/React-apps.git"
+  },
+  "keywords": [],
+  "author": "Nav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nav-dev/React-apps/issues"
+  },
+  "homepage": "https://github.com/Nav-dev/React-apps#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
